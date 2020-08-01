@@ -11,19 +11,24 @@ div {
 
 img {
     border: 10px groove orangered;
+    border-radius: 100%;
 }
 
 .dogone {
-    border: 10px dashed orangered
+    border: 10px dashed orangered;
+    border-radius: 10%;
 }
 
 .dogtwo {
-    border: 10px dotted orangered
+    border: 10px dotted orangered;
+    border-radius: 20%;
 }
 
 .dogthree {
-    border: 10px double orangered
+    border: 10px double orangered;
+    border-radius: 40%;
 }
 .dogfour {
-    border: 20px solid rgb(21, 0, 255)
+    border: 20px solid rgb(21, 0, 255);
+    border-radius: 80%;
 }
