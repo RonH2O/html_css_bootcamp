@@ -1,0 +1,25 @@
+div {
+    width: 100px;
+    height: 100px;
+    background-color: aquamarine;
+    border-radius: 10%;
+    border: groove 20px red;
+}
+
+.page1_div {
+    width: 400px;
+    height: 200px;
+    border: dashed red 10px;
+    /* margin: 20px auto; */
+    margin-left: 20px;
+    margin-right: 20px;
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+
+.extra_div {
+    box-sizing: border-box;
+    background-image: url("../000_img/cheetah.png");
+    background-size: cover;
+    background-repeat: no-repeat;
+}
